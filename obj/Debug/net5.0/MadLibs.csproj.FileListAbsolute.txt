@@ -1,0 +1,15 @@
+/Users/alexmuir/source/codeacademy/MadLibs/bin/Debug/net5.0/MadLibs.deps.json
+/Users/alexmuir/source/codeacademy/MadLibs/bin/Debug/net5.0/MadLibs.runtimeconfig.json
+/Users/alexmuir/source/codeacademy/MadLibs/bin/Debug/net5.0/MadLibs.runtimeconfig.dev.json
+/Users/alexmuir/source/codeacademy/MadLibs/bin/Debug/net5.0/MadLibs.dll
+/Users/alexmuir/source/codeacademy/MadLibs/bin/Debug/net5.0/ref/MadLibs.dll
+/Users/alexmuir/source/codeacademy/MadLibs/bin/Debug/net5.0/MadLibs.pdb
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.csproj.AssemblyReference.cache
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.AssemblyInfoInputs.cache
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.AssemblyInfo.cs
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.csproj.CoreCompileInputs.cache
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.dll
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/ref/MadLibs.dll
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.pdb
+/Users/alexmuir/source/codeacademy/MadLibs/obj/Debug/net5.0/MadLibs.genruntimeconfig.cache
