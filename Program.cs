@@ -26,6 +26,15 @@ namespace MadLibs
             string name = Console.ReadLine();
             Console.WriteLine($"Hello {name}");
 
+            Console.Write("Type an Adjective (A word that describes a noun. Ex: blue, silly, soft.): ");
+            string adjOne = Console.ReadLine();
+            Console.Write("Type another Adjective: ");
+            string adjTwo = Console.ReadLine();
+            Console.Write("Type one more Adjective: ");
+            string adjThree = Console.ReadLine();
+
+            Console.Write("Type a Verb (A word describing an action. Ex: sit, eat, sleep.): ");
+
 
             // The template for the story:
 
