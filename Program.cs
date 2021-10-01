@@ -65,6 +65,7 @@ namespace MadLibs
 
 
             // Print the story:
+            Console.WriteLine("Here is your Mad Mad Lib!");
             Console.WriteLine(story);
         }
     }
