@@ -33,7 +33,30 @@ namespace MadLibs
             Console.Write("Type one more Adjective: ");
             string adjThree = Console.ReadLine();
 
+           
+
             Console.Write("Type a Verb (A word describing an action. Ex: sit, eat, sleep.): ");
+            string verbOne = Console.ReadLine();
+
+            Console.Write("Type a Noun (A person, place, or thing): ");
+            string nounOne = Console.ReadLine();
+            Console.Write("Type another Noun: ");
+            string nounTwo = Console.ReadLine();
+
+            Console.Write("Type an Animal: ");
+            string animal = Console.ReadLine();
+            Console.Write("Type a Food: ");
+            string food = Console.ReadLine();
+            Console.Write("Type a Fruit: ");
+            string fruit = Console.ReadLine();
+            Console.Write("Type a Superhero: ");
+            string superhero = Console.ReadLine();
+            Console.Write("Type a Country: ");
+            string country = Console.ReadLine();
+            Console.Write("Type a Dessert: ");
+            string dessert = Console.ReadLine();
+            Console.Write("Type a Year: ");
+            int year = Console.ReadLine();
 
 
             // The template for the story:
